@@ -2,3 +2,5 @@ Hafidz resolusi
 -Menyelesaikan program skripsi
 -belajar fullstack Web develop
 -12345
+-Membuat website responsive sendiri
+-belajar graphic design

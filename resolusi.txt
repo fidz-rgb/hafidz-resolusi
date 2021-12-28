@@ -3,4 +3,4 @@ Hafidz resolusi
 -belajar fullstack Web develop
 -12345
 -Membuat website responsive sendiri
--belajar graphic design
+-Mebuat aplikasi android sendiri
